@@ -1,0 +1,11 @@
+{
+    "pet": {
+        "name": "Charlie",
+        "pet": "cat",
+        "exp": 0,
+        "hp": 7,
+        "max_hp": 10,
+        "mp": 0
+    },
+    "todos": []
+}
